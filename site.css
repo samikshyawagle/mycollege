@@ -1,0 +1,519 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    overflow: hidden;
+}
+.e{
+    background-color: navy;
+    padding: 8px;
+    display: flex;
+    justify-content: space-between;
+}
+.c{
+    display: flex;
+    margin-top: 0.6%;
+    margin-left: 2%;
+    gap: 10px;
+}
+
+.c p{
+    color: whitesmoke;
+}
+.c i{
+    font-size: 10px;
+    color: white;
+    margin-top: 0.6%;
+}
+.d{
+    display: flex;
+    gap: 10px;
+    margin-top: 0.6%;
+}
+.d i{
+    color: white;
+    margin-top: 2%;
+   
+}
+.main{
+    display: flex;
+    gap: 89px;
+}
+ul{
+    display: flex;
+    gap: 40px;
+    margin-top: 2%;
+
+}
+.f{
+    display: flex;
+    gap: 20px;
+}
+li a{
+    list-style: none;
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+.b img{
+    margin-left: 10%;
+    margin-top: 3%;
+}
+.g button{
+    background-color: maroon;
+    color: white;
+    display: flex;
+height: 40px;
+width: 150px;
+justify-content: center;
+text-align: center;
+align-items: center;
+gap: 10px;
+margin-top: -5%;
+
+}
+
+.h{
+display: flex;
+gap: 10px;
+justify-content: center;
+
+}
+.i h4{
+    color: navy;
+    font-size: 13px;
+}
+.k{
+    margin-top: 10%;
+}
+.k button{
+    background-color: maroon;
+    color: white;
+    display: flex;
+height: 40px;
+width: 150px;
+justify-content: center;
+text-align: center;
+align-items: center;
+gap: 10px;
+margin-top: -5%;
+}
+.i pre{
+    margin-top: 1%;
+}
+.i{
+    margin-top: 3%;
+}
+ .i h1{
+    margin-top: 2%;
+}
+.i p{
+    margin-top: 5%;
+}
+.C{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 3%;
+    align-items: center;
+    gap: 40px;
+
+}
+.A h1{
+    margin-top: 2%;
+    color: gray;
+}
+.A h5{
+    color: blueviolet;
+}
+.z{
+    margin-top: 2%;
+}
+.D{
+   display: flex;
+    justify-content: center;
+}
+.E{
+display: flex;
+justify-content: center;
+margin-top:1% ;
+}
+.thirdmain{
+    margin-top: 10%;
+}
+
+.G{
+display: flex;
+gap: 40px;
+}
+
+.M{
+    display: flex;
+    gap: 70px;
+    justify-content: center;
+}
+.L h3{
+    color: yellow;
+    font-family: 'Courier New', Courier, monospace;
+}
+.L pre{
+    margin-top: 2%;
+}
+.L h2{
+    margin-top: 2%;
+    color: blue;
+}
+.N h4{
+    display: flex;
+    flex-direction: column;
+    margin-top: 15%;
+}
+.N{
+    display: flex;
+    gap: 100px;
+    margin-top: 3%;
+}
+.N i{
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+}
+.fourthmain{
+    margin-top: 5%;
+}
+.S{
+    text-align: center;
+}
+.S h4{
+    color: blueviolet;
+}
+.S h3{
+    color: blue;
+    margin-top: 2%;
+}
+.S p{
+    color: blue;
+    margin-top: 1%;
+}
+.T{
+display: flex;
+gap: 50px;
+margin-left: 5%;
+margin-top: 3%;
+}
+.U{
+    border: white solid 2px;
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    box-shadow: 10px 10px 10px 10px wheat;
+    border-radius:30px;
+}
+.V{
+    border: white solid 2px;
+    height: 300px;
+    width: 300px; 
+    text-align: center;
+    background-color: navy;
+    box-shadow: 10px 10px 10px 10px wheat;
+    color: white;
+    border-radius:30px;
+}
+.W{
+    border: white solid 2px;
+    height: 300px;
+    width: 300px;
+    box-shadow: 10px 10px 10px 10px wheat;
+    text-align: center;
+    border-radius:30px;
+}
+.U:hover{
+    background-color: red;
+    transition: 0.5s;
+    color: white;
+}
+.V:hover{
+    background-color: red;
+    transition: 0.5s;
+    color: white;
+}
+.W:hover{
+    background-color: red;
+    transition: 0.5s;
+    color: white;
+}
+
+.U h1{
+    margin-top: 4%;
+    -webkit-text-stroke: 1px black;
+ -webkit-text-fill-color: white ;
+ font-size: 60px;
+ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ text-shadow: 5px 15px lightblue;
+}
+.V h1{
+    margin-top: 4%;
+    -webkit-text-stroke: 1px black;
+    -webkit-text-fill-color: navy ;
+    font-size: 60px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 5px 15px lightblue;
+}
+.W h1{
+    margin-top: 4%;
+      -webkit-text-stroke: 1px black;
+ -webkit-text-fill-color: white ;
+ font-size: 60px;
+ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ text-shadow: 5px 15px lightblue;
+}
+.U h3{
+    margin-top: 4%;
+}
+.V h3{
+    margin-top: 4%;
+}
+.W h3{
+    margin-top: 4%;
+}
+.U p{
+    margin-top: 4%;
+}
+.V p{
+    margin-top: 4%;
+}
+.W p{
+    margin-top: 4%;
+}
+.fifthmain{
+    margin-top: 5%;
+}
+.ph{
+    background-color: blue;
+    width: 1250px;
+    height: 350px;
+    justify-content: center;
+    text-align: center;
+    color: white;
+}
+
+.phh h1{
+    padding-top: 5%;
+}
+.phh p{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+}
+.bu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+.bu button{
+    background-color: maroon;
+    color: white;
+    display: flex;
+height: 40px;
+width: 150px;
+justify-content: center;
+/* text-align: center; */
+align-items: center;
+gap: 10px;
+margin-top: -12%;
+}
+.sixthmain{
+    margin-top: 10%;
+}
+.sixtha{
+    text-align: center;
+}
+.sixtha h4{
+    color: blueviolet;
+}
+.sixtha h2{
+    color: grey;
+    margin-top: 3%;
+}
+.sixtha p{
+    color: blueviolet;
+    margin-top: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.sixthb{
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+    margin-top: 5%;
+}
+.photoone{
+    border: black solid 1px;
+    height: 200px;
+    width: 300px;
+    border-radius: 5%;
+  box-shadow: 10px 10px 10px 10px gainsboro;
+    text-align: center;
+}
+
+.phototwo{
+    border: black solid 1px;
+    height: 200px;
+    width: 300px;
+    border-radius: 5%;
+    box-shadow: 10px 10px 10px 10px gainsboro;
+      text-align: center;
+}
+.photothree{
+    border: black solid 1px;
+    height: 200px;
+    width: 300px;
+    border-radius: 5%;
+    box-shadow: 10px 10px 10px 10px gainsboro;
+      text-align: center;
+   
+}
+.photoone img{
+    border-radius: 50%;
+ /* margin-left: 2%; */
+ margin-top: 3%;
+}
+.sic h3{
+   margin-top: 3%;
+}
+.sic p{
+    margin-top: 3%;
+}
+.phototwo img{
+    border-radius: 50%;
+    margin-left: 2%;
+    margin-top: 3%;
+}
+.sid h3{
+    margin-top: 3%;
+}
+.sid p{
+    margin-top: 3%;
+}
+.photothree img{
+    border-radius: 50%;
+    margin-left: 2%;
+    margin-top: 3%;
+}
+.sie h3{
+    margin-top: 3%;
+}
+.sie p{
+    margin-top: 3%;
+}
+.seventhmain{
+    margin-top: 5%;
+
+}
+.one{
+    text-align: center;
+}
+.one h3{
+    color: blueviolet;
+}
+.one h1{
+    margin-top: 3%;
+    color: navy;
+}
+.two{
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+    margin-top: 5%;
+}
+footer{
+    margin-top: 5%;
+    background-color: navy;
+    height: 300px;
+    width: 1225px;  
+}
+.four{
+    margin-left: 2%;  
+}
+.five{
+    display: flex;
+    color: white;
+    margin-left: 2%;
+    gap: 5px;
+}
+.five h2{
+    margin-top: 4%; 
+}
+.five img{
+    margin-top: 2.5%;
+}
+.six p{
+    color: white;
+}
+.seven{
+    display: flex;
+   font-size: 20px;
+   color: white;
+   gap: 10px;
+   margin-top: 3%;
+   margin-left: 2%;
+}
+.thirteen{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    color: white;
+}
+.five{
+    margin-top: 3%;
+}
+.six p{
+    margin-top: 7%;
+}
+.seven {
+    margin-top: 5%;
+}
+
+.nine {
+    margin-top: 9px;
+}
+.nine h3{
+    margin-top: 30%;
+}
+.ten h3{
+    margin-top: 4%;
+}
+.ten p{
+    margin-top: 10%;
+}
+.eleven h3{
+margin-top: 3%;
+}
+.eleven p{
+    margin-top: 8%;
+}
+.twelve{
+    margin-top: 6px;
+}
+.twelve i{
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+  margin-top: 65%;
+    align-items: center;
+}
+.twelve p{
+    text-align: center;
+}
+.fourteen{
+    background-color: blue;
+    height: 40px;
+    width: 1300px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
